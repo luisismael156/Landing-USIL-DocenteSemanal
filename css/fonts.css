@@ -1,0 +1,69 @@
+
+@font-face{
+	font-family: "PTSans-Bold";
+	font-style:normal;
+	font-weight:normal;
+	src: url("fonts/PTSans-Bold-08.ttf");
+}
+
+@font-face{
+	font-family: "PTSans-BoldItalic";
+	font-style:normal;
+	font-weight:normal;
+	src: url("fonts/PTSans-BoldItalic-07.ttf");
+}
+
+
+@font-face{
+	font-family: "PTSans-Caption";
+	font-style:normal;
+	font-weight:normal;
+	src: url("fonts/PTSans-Caption-06.ttf");
+}
+
+
+@font-face{
+	font-family: "PTSans-CaptionBold";
+	font-style:normal;
+	font-weight:normal;
+	src: url("fonts/PTSans-CaptionBold-05.ttf");
+}
+
+
+@font-face{
+	font-family: "PTSans-Narrow";
+	font-style:normal;
+	font-weight:normal;
+	src: url("fonts/PTSans-Narrow-04.ttf");
+}
+@font-face{
+	font-family: "PTSans-NarrowBold";
+	font-style:normal;
+	font-weight:normal;
+	src: url("fonts/PTSans-NarrowBold-03.ttf");
+}
+@font-face{
+	font-family: "PTSans-Italic";
+	font-style:normal;
+	font-weight:normal;
+	src: url("fonts/PTSans-Italic-02.ttf");
+}
+@font-face{
+	font-family: "PTSans-Regular";
+	font-style:normal;
+	font-weight:normal;
+	src: url("fonts/PTSans-Regular-01.ttf");
+}
+@font-face{
+	font-family: "Aller_Lt";
+	font-style:normal;
+	font-weight:normal;
+	src: url("fonts/Aller_Lt.ttf");
+}
+@font-face{
+	font-family: "Aller_LtItalic";
+	font-style:normal;
+	font-weight:normal;
+	src: url("fonts/Aller_LtItalic.ttf");
+}
+
