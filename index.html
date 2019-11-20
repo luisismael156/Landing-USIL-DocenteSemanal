@@ -785,6 +785,18 @@
 
 
         });
+	    
+$(window).on('scroll', function() {
+        var scrollTop = $(this).scrollTop();
+        $('#bg-header').each(function() {
+            var topDistance = $(this).offset().top;
+            if ( (topDistance+8888) < scrollTop ) {
+                $('#menu').addClass('fijo');
+            } else {
+                $('#menu').removeClass('fijo');
+            };
+        });
+    });       
     </script>
 
 
